@@ -1,8 +1,14 @@
-This assignment required me to build the complete GUI and background code (see task sheet).
+This assignment required me to build the complete GUI and background code for a Pokemon-themed minesweeper game (see task sheet).
 
 The only thing provided were the images. 
 
 All classes / methods were self-coded.
+
+It includes two different modes (which can be changed by altering the 'task' variable to TASK_ONE or TASK_TWO in the PokemonGame init).
+
+It also features save / load game, highscores and a timer. 
+
+All features in the task sheet for post-graduate students were implemented.
 
 Run a3 to play the game.
 
