@@ -1,0 +1,10 @@
+Simple minesweeper game (see task sheet).
+
+a1_support was provided to all students (I didn't create this).
+
+The game operates through the python module (no GUI). 
+
+Run a1 to play the game. 
+
+Make sure you have a1_support stored in the same folder because it is necessary in order to play the game.
+
